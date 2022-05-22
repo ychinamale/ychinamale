@@ -20,7 +20,8 @@
 
 <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=storybook&message=Storybook&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=apollographql&message=Apollo%20GraphQL&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=amazon-aws&message=AWS%20EC2&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=amazon-aws&message=AWS%20RDS&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=amazons3&message=AWS%20S3&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=firebase&message=Firebase&style=for-the-badge" /> 
 
-<img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=styledcomponents&message=Styled-components&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=tailwindcss&message=Tailwind%20CSS&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=visualstudiocode&message=Visual%20Studio%20Code&style=for-the-badge" /> 
+<img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=styledcomponents&message=Styled-components&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=tailwindcss&message=Tailwind%20CSS&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=jest&message=Jest&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=testinglibrary&message=Testing%20Library&style=for-the-badge" /> 
+<img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=visualstudiocode&message=Visual%20Studio%20Code&style=for-the-badge" /> 
 
 
 
