@@ -9,6 +9,7 @@
 ### ✨ Highlights
   - 🔭 I’m currently building **Android** and **iOS applications** with **React Native**.
   - 🌱 I’m upskilling in **Express**, **MobX-State-Tree**,  and **testing frameworks**.
+  - 🔖 I keep my [Resume on Notion](https://ychinamale.notion.site/Yamikani-Chinamale-Resume-1093507032274edfaf9142cd1cfc1912).
 
 <br />
 
