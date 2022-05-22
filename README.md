@@ -1,6 +1,6 @@
 ### 🖖🏾 Introduction
 - Hi, I'm Yami. I am a developer with 5+ years of experience building software.<br />
-- My current focus is web and mobile application development. <br />
+- My main focus is front-end web and mobile development. <br />
 - I have a Computer Science background, and hold a BSc (Hons) degree in the field. <br />
 - I see full-stack development in my near future.
 
@@ -16,7 +16,7 @@
 
 ### 🛠 My Tools
 
-<img alt="TypeScript" src="https://img.shields.io/npm/types/typescript?color=black&label=%20&logo=Typescript&style=for-the-badge" /> <img alt="React" src="https://img.shields.io/static/v1?color=black&label=%20&logo=react&message=React&style=for-the-badge" /> <img alt="React Native" src="https://img.shields.io/static/v1?color=black&label=%20&logo=react&message=React%20Native&style=for-the-badge" /> <img alt="Redux" src="https://img.shields.io/static/v1?color=black&label=%20&logo=redux&message=REDUX&style=for-the-badge" /> <img alt="MobX-State-Tree" src="https://img.shields.io/static/v1?color=black&label=%20&logo=mobxstatetree&message=MobX-State-Tree&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=fastlane&message=Fastlane&style=for-the-badge" />
+<img alt="TypeScript" src="https://img.shields.io/npm/types/typescript?color=black&label=%20&logo=Typescript&style=for-the-badge" /> <img alt="React" src="https://img.shields.io/static/v1?color=black&label=%20&logo=react&message=React%20Hooks&style=for-the-badge" /> <img alt="React Native" src="https://img.shields.io/static/v1?color=black&label=%20&logo=react&message=React%20Native&style=for-the-badge" /> <img alt="Redux" src="https://img.shields.io/static/v1?color=black&label=%20&logo=redux&message=Redux%20Toolkit&style=for-the-badge" /> <img alt="MobX-State-Tree" src="https://img.shields.io/static/v1?color=black&label=%20&logo=mobxstatetree&message=MobX-State-Tree&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=fastlane&message=Fastlane&style=for-the-badge" />
 
 <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=storybook&message=Storybook&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=apollographql&message=Apollo%20GraphQL&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=amazon-aws&message=AWS%20EC2&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=amazon-aws&message=AWS%20RDS&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=amazons3&message=AWS%20S3&style=for-the-badge" /> <img alt="" src="https://img.shields.io/static/v1?color=black&label=%20&logo=firebase&message=Firebase&style=for-the-badge" /> 
 
