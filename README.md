@@ -1,14 +1,13 @@
 ### 🖖🏾 Introduction
 - Hi, I'm Yami. I am a developer with 5+ years of experience building software.<br />
-- My main focus is front-end web and mobile development. <br />
+- My main focus is building mobile applications with React Native. <br />
 - I have a Computer Science background, and hold a BSc (Hons) degree in the field. <br />
-- I see full-stack development in my near future.
 
 <br />
 
 ### ✨ Highlights
-  - 🔭 I’m currently building **Android** and **iOS applications** with **React Native**.
-  - 🌱 I’m upskilling in **Express**, **MobX-State-Tree**,  and **testing frameworks**.
+  - 🔭 I’m currently building **Android** and **iOS applications** for clients in the Fintech space.
+  - 🌱 I’m working on my iOS Developer Certificate.
   - 🔖 I keep my [Resume on Notion](https://ychinamale.notion.site/Yamikani-Chinamale-Resume-1093507032274edfaf9142cd1cfc1912).
   - 📩 I'm open to collaboration, and it's pretty [easy to reach me](mailto:ychinamale@gmail.com).
 
