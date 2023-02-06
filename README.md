@@ -6,8 +6,8 @@
 <br />
 
 ### ✨ Highlights
-  - 🔭 I’m currently building **Android** and **iOS applications** for clients in the Fintech space.
-  - 🌱 I’m working on back-end development with Node & Express.
+  - 🔭 Currently working with the [Snapwage.app](https://snapwage.app/) team as a freelance Software Engineer (web & mobile).
+  - 🌱 I’m upskilling on fullstack development with Vue, Express and MongoDB.
   - 🔖 I keep my [Resume on Notion](https://ychinamale.notion.site/Yamikani-Chinamale-Resume-1093507032274edfaf9142cd1cfc1912).
   - 📩 I'm open to collaboration, and it's pretty [easy to reach me](mailto:ychinamale+github@gmail.com).
 
