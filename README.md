@@ -1,13 +1,14 @@
 ### 🖖🏾 Introduction
 - Hi, I'm Yami. I am a developer with 5+ years of experience building software.<br />
-- My main focus is building mobile applications with React Native. <br />
+- I am a **Fullstack** **web** and **mobile** applications engineer <br />
+- My primary focus is the React ecosystem <br />
 - I have a Computer Science background, and hold a BSc (Hons) degree in the field. <br />
 
 <br />
 
 ### ✨ Highlights
   - 🔭 Currently working with the [Snapwage.app](https://snapwage.app/) team as a freelance Software Engineer (web & mobile).
-  - 🌱 I’m upskilling on fullstack development with Vue, Express and MongoDB.
+  - 🌱 I’m upskilling on Flutter, Vue and MongoDB.
   - 🔖 I keep my [Resume on Notion](https://ychinamale.notion.site/Yamikani-Chinamale-Resume-1093507032274edfaf9142cd1cfc1912).
   - 📩 I'm open to collaboration, and it's pretty [easy to reach me](mailto:ychinamale+github@gmail.com).
 
