@@ -1,7 +1,6 @@
 ### 🖖🏾 Introduction
 - Hi, I'm Yami. I am a developer with 5+ years of experience building software.<br />
 - I am a **Fullstack** **web** and **mobile** applications engineer <br />
-- My primary focus is the React ecosystem <br />
 - I have a Computer Science background, and hold a BSc (Hons) degree in the field. <br />
 
 <br />
