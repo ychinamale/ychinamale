@@ -1,13 +1,13 @@
 ### 🖖🏾 Introduction
 - Hi, I'm Yami. I am a developer with 5+ years of experience building software.<br />
-- I am a **Fullstack** **web** and **mobile** applications engineer <br />
+- My main focus is building mobile applications. <br />
 - I have a Computer Science background, and hold a BSc (Hons) degree in the field. <br />
 
 <br />
 
 ### ✨ Highlights
   - 🔭 Currently working with the [Flexistore](https://www.flexistore.co.za/) team as a Product Engineer (web & mobile).
-  - 🌱 I’m upskilling in Native Mobile Development and Backend Development.
+  - 🌱 I’m upskilling in Native Mobile Development.
   - 🔖 I keep my [Resume on Notion](https://ychinamale.notion.site/Yamikani-Chinamale-Resume-1093507032274edfaf9142cd1cfc1912).
   - 📩 I'm open to collaboration, and it's pretty [easy to reach me](mailto:ychinamale+github@gmail.com).
 
