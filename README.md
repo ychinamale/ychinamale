@@ -1,5 +1,5 @@
 ### 🖖🏾 Introduction
-- Hi, I'm Yami. I am a developer with 5+ years of experience building software.<br />
+- Hi, I'm Yami. I am a developer with 7+ years of experience building software.<br />
 - My main focus is building mobile applications. <br />
 - I have a Computer Science background, and hold a BSc (Hons) degree in the field. <br />
 
